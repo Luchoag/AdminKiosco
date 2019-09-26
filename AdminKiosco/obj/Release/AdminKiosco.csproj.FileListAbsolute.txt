@@ -1,0 +1,15 @@
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\bin\Release\AdminKiosco.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\bin\Release\AdminKiosco.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\bin\Release\AdminKiosco.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form1.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form2.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form3.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form4.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Properties.Resources.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form5.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form6.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\AdminKiosco\AdminKiosco\obj\Release\AdminKiosco.Form7.resources
